@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+body{ padding-top: 60px; }
+.inline{ display: inline !important; }
+
+.footer {
+	margin-top: 45px;
+	padding: 35px 35px;
+	border-top: 1px solid #e5e5e5;
+
+	p {
+		margin-bottom: 0;
+		color: #555;
+	}
+
+}

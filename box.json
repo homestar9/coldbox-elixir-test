@@ -1,0 +1,36 @@
+{
+    "name":"My ColdBox App",
+    "version":"1.0.0",
+    "location":"",
+    "author":"You",
+    "slug":"my-coldbox-app",
+    "shortDescription":"A ColdBox application template that leverages ColdBox Elixir for assets",
+    "createPackageDirectory":false,
+    "type":"mvc",
+    "keywords":[],
+    "homepage":"https://github.com/coldbox-templates/elixir",
+    "documentation":"https://github.com/coldbox-templates/elixir",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/coldbox-templates/elixir"
+    },
+    "bugs":"https://github.com/coldbox-templates/elixir/issues",
+    "contributors":[],
+    "ignore":[
+        "readme.md"
+    ],
+    "devDependencies":{
+        "testbox":"*",
+        "commandbox-dotenv":"*",
+        "commandbox-cfconfig":"*",
+        "commandbox-cfformat":"*"
+    },
+    "installPaths":{
+        "coldbox":"coldbox/",
+        "testbox":"testbox/"
+    },
+    "dependencies":{
+        "coldbox":"^6.0.0"
+    },
+    "scripts":{}
+}
