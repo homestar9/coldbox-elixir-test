@@ -1,15 +1,14 @@
 {
-  "includes/js/App.js": "/includes/js/App.7554c95cc3255d618bd6.js",
-  "includes/css/App.js": "/includes/css/App.a20c91f21697a286d339.js",
-  "includes/css/App.css": "/includes/css/App.321689fbd5b7dc45da8d.css",
-  "modules_app/admin/includes/js/admin.js": "/modules_app/admin/includes/js/admin.d4391b65a91a8e3758e5.js",
-  "modules_app/admin/includes/css/admin.js": "/modules_app/admin/includes/css/admin.6b79f9fc5b7d3124a8aa.js",
-  "modules_app/admin/includes/css/admin.css": "/modules_app/admin/includes/css/admin.a293738b94cbef12da18.css",
-  "includes/js/runtime.js": "/includes/js/runtime.174d61f73878b3d06850.js",
-  "includes/js/vendor.js": "/includes/js/vendor.0b97f2d112757e5941f7.js",
-  "App.css.map": "/includes/css/App.321689fbd5b7dc45da8d.css.map",
-  "admin.js.map": "/modules_app/admin/includes/js/admin.d4391b65a91a8e3758e5.js.map",
-  "admin.css.map": "/modules_app/admin/includes/css/admin.a293738b94cbef12da18.css.map",
-  "runtime.js.map": "/includes/js/runtime.174d61f73878b3d06850.js.map",
-  "vendor.js.map": "/includes/js/vendor.0b97f2d112757e5941f7.js.map"
+  "includes/js/App.js": "/includes/js/App.js",
+  "includes/css/App.css": "/includes/css/App.css",
+  "includes/css/App.js": "/includes/css/App.js",
+  "modules_app/admin/includes/js/admin.js": "/modules_app/admin/includes/js/admin.js",
+  "modules_app/admin/includes/css/admin.css": "/modules_app/admin/includes/css/admin.css",
+  "modules_app/admin/includes/css/admin.js": "/modules_app/admin/includes/css/admin.js",
+  "includes/js/runtime.js": "/includes/js/runtime.js",
+  "includes/js/vendor.js": "/includes/js/vendor.js",
+  "includes/images/landscape-2.jpg": "/includes/images/landscape-2.jpg",
+  "includes/images/landscape.jpg": "/includes/images/landscape.jpg",
+  "includes/fonts/bootstrap-icons.woff?": "/includes/fonts/bootstrap-icons.woff",
+  "includes/fonts/bootstrap-icons.woff2?": "/includes/fonts/bootstrap-icons.woff2"
 }

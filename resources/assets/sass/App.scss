@@ -2,6 +2,13 @@
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
 body{ padding-top: 60px; }
+
+.hero {
+    background-image: url( '../img/landscape.jpg' );
+    background-position: center;
+    background-size: cover;
+}
+
 .inline{ display: inline !important; }
 
 .footer {
